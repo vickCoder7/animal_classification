@@ -31,15 +31,11 @@ To use the notebook, follow these steps:
     ```
     git clone https://github.com/vickCoder7/animal_classification.git
     ```
-2. Navigate to the project directory:
-    ```
-    cd animal_classification
-    ```
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
     ```
     jupyter notebook animal_classification.ipynb
     ```
-4. Run each cell to get the ouputs
+3. Run each cell to get the ouputs
 
 ## Results
 
