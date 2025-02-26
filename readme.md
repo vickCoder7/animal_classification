@@ -27,15 +27,19 @@ pip install numpy pandas matplotlib tqdm scikit-learn opencv-python keras tensor
 
 To use the notebook, follow these steps:
 
-1. Clone the repository:
+1. Get the data by running `fetch_data.py` file in your working directory
+    ```
+    python fetch_data.py
+    ```
+2. Clone the repository:
     ```
     git clone https://github.com/vickCoder7/animal_classification.git
     ```
-2. Open the Jupyter Notebook:
+3. Open the Jupyter Notebook:
     ```
     jupyter notebook animal_classification.ipynb
     ```
-3. Run each cell to get the ouputs
+4. Run each cell to get the ouputs
 
 ## Results
 
